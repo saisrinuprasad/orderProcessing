@@ -7,3 +7,5 @@ we developed 2 system APIS, one for DB and other for Salesforce
 
 we developed one process API and experience API
 
+Salesforce is for storing customer details
+
